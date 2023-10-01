@@ -5,11 +5,11 @@
 </p>
 
 ## Criar uma API REST de um FORUM, com as funções:
-Criação de um novo tópico.
-Listagem dos tópicos com paginação.
-Exibir um tópico.
-Alteração de um tópico.
-Deletar um tópico.
+<p> Criação de um novo tópico </p>
+<p></p>Listagem dos tópicos com paginação</p>
+<p>Exibir um tópico</p>
+<p>Alteração de um tópico</p>
+<p>Deletar um tópico</p>
 
 
 ### Tecnologias utilizadas:
@@ -21,4 +21,5 @@ Deletar um tópico.
 - [Token JWT](https://jwt.io/)
 
 
-🚀Desenvolvido por Monique Sales.
+
+##🚀Desenvolvido por Monique Sales.
